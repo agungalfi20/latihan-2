@@ -1,5 +1,5 @@
 #Latihan 2
-# <p align="center">.::Uraian Langkah::. </p></font>
+# <p align="center"> Uraian Langkah </p></font>
 
 1.Masukan nilai a</br>
 2.Masukan nilai b</br>
@@ -17,8 +17,13 @@
 5.Maka akan menampilkan bilangan terbesar dari tergantung nila a,b dan c, yang menyesuaikan kondisi statement if</br></br>
 
 <strong>Screenshot</strong>
+
 ![](SS-Hasil-Eksekusi.png)
+
 <strong>Flowchart</strong>
+
 ![](flowchart.jpg)
+
 ![latihan](https://user-images.githubusercontent.com/57052780/68537974-e4b56d00-039f-11ea-9abb-8bd10986a391.png)
+
 ![latihan 2](https://user-images.githubusercontent.com/57052780/68537975-e8e18a80-039f-11ea-84f0-cb0262443361.png)
